@@ -4,7 +4,7 @@
 
 - <b>Exposure to Digital Forensics concepts such as evidence types and Chain of Custody</b> 
 - <b>Retriving of hidden information hidden inside Steganography files</b>
-- <b>Conduct dictionary and brute-force attacks to crack passworded ZIP files using Linux CLI</b>
+- <b>Launch dictionary and brute-force attacks to crack passworded ZIP files using Linux CLI</b>
 - <b>CTF activity to simulate an investigation on a hard drive.</b>
 
 <h2>Languages and Utilities Used:</h2>
