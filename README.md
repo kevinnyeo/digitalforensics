@@ -101,6 +101,8 @@
  2. Run the [cat, head, strings] command to view contents.<br/>
 <img src=https://i.imgur.com/Q2En0kk.png" height="80%" width="80%" /> <br/>
 <img src=https://i.imgur.com/tWoUlQS.png" height="80%" width="80%" /> <br/>
+<br/>
+<img src=https://i.imgur.com/fB71Xjw.png" height="80%" width="80%" />
  
 
 
